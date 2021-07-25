@@ -1,0 +1,30 @@
+G:\VS sourse\Group3_Project\Group3_Project\bin\Debug\Group3_Project.exe.config
+G:\VS sourse\Group3_Project\Group3_Project\bin\Debug\Group3_Project.exe
+G:\VS sourse\Group3_Project\Group3_Project\bin\Debug\Group3_Project.pdb
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.csproj.AssemblyReference.cache
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.Properties.Resources.resources
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.csproj.GenerateResource.cache
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.csproj.CoreCompileInputs.cache
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.exe
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.pdb
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.FrmManage.resources
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.csproj.CopyComplete
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.frmAutoMark.resources
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.frmLogin.resources
+G:\VS sourse\Group3_Project\Group3_Project\obj\Debug\Group3_Project.frmUpdate.resources
+G:\VS sourse\Group3_Project\Group3_Project\bin\Debug\stdole.dll
+D:\FPT University\Summer2021\PRN292\Project C#\Project\Group3_Project\Group3_Project\bin\Debug\Group3_Project.exe.config
+D:\FPT University\Summer2021\PRN292\Project C#\Project\Group3_Project\Group3_Project\bin\Debug\Group3_Project.exe
+D:\FPT University\Summer2021\PRN292\Project C#\Project\Group3_Project\Group3_Project\bin\Debug\Group3_Project.pdb
+D:\FPT University\Summer2021\PRN292\Project C#\Project\Group3_Project\Group3_Project\bin\Debug\stdole.dll
+D:\FPT University\Summer2021\PRN292\Project C#\Project\Group3_Project\Group3_Project\obj\Debug\Group3_Project.csprojAssemblyReference.cache
+D:\FPT University\Summer2021\PRN292\Project C#\Project\Group3_Project\Group3_Project\obj\Debug\Group3_Project.frmAutoMark.resources
+D:\FPT University\Summer2021\PRN292\Project C#\Project\Group3_Project\Group3_Project\obj\Debug\Group3_Project.frmManage.resources
+D:\FPT University\Summer2021\PRN292\Project C#\Project\Group3_Project\Group3_Project\obj\Debug\Group3_Project.frmLogin.resources
+D:\FPT University\Summer2021\PRN292\Project C#\Project\Group3_Project\Group3_Project\obj\Debug\Group3_Project.frmUpdate.resources
+D:\FPT University\Summer2021\PRN292\Project C#\Project\Group3_Project\Group3_Project\obj\Debug\Group3_Project.Properties.Resources.resources
+D:\FPT University\Summer2021\PRN292\Project C#\Project\Group3_Project\Group3_Project\obj\Debug\Group3_Project.csproj.GenerateResource.cache
+D:\FPT University\Summer2021\PRN292\Project C#\Project\Group3_Project\Group3_Project\obj\Debug\Group3_Project.csproj.CoreCompileInputs.cache
+D:\FPT University\Summer2021\PRN292\Project C#\Project\Group3_Project\Group3_Project\obj\Debug\Group3_Project.csproj.CopyComplete
+D:\FPT University\Summer2021\PRN292\Project C#\Project\Group3_Project\Group3_Project\obj\Debug\Group3_Project.exe
+D:\FPT University\Summer2021\PRN292\Project C#\Project\Group3_Project\Group3_Project\obj\Debug\Group3_Project.pdb

@@ -1,0 +1,4 @@
+aaa bbb eee AAA
+OUTPUT:
+2
+MARK:2.5
